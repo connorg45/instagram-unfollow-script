@@ -11,28 +11,28 @@ Before running the script, ensure you have [Node.js](https://nodejs.org/) instal
 
 ## Usage
 
-1. Open instagram on iphone.
+1. Open Instagram on iPhone.
 2. Go to your profile (click bottom right to go to your account).
-3. Press top right horizontal lines.
-4. Go to "Your Activity".
-5. Scroll down to the bottom and hit "Download your information".
-6. Press "Request a download".
-7. Choose "Select types of information".
+3. Press the top right horizontal lines.
+4. Go to "Your Activity."
+5. Scroll down to the bottom and hit "Download your information."
+6. Press "Request a download."
+7. Choose "Select types of information."
 8. Select "Followers and following" and then press next at the bottom.
-9. Input a email of your choice and choose the format "JSON", set the date range to "All time".
+9. Input a email of your choice and choose the format "JSON", set the date range to "All time."
 10. You should recieve an email shortly.
-11. Next go to your personal machine and open the new email from instagram.
-12. Click "download your information", click download and then input your password.
+11. Next go to your personal machine and open the new email from Instagram.
+12. Click "Download your information", click download and then input your password.
 13. Open the zip file and then drag the folder "followers_and_following" to your desktop.
 14. Now clone this repo to your local machine.
-15. Open "instagram-unfollow-script" in visual studio code.
-16. Drag "followers_and_following" into this project and click "copy folder".
+15. Open "instagram-unfollow-script" in Visual Studio Code.
+16. Drag "followers_and_following" into this project and click "copy folder."
 
 Your file structure should look like this now:
 
 ![File Structure](/assets/images/folder-structure.png)
 
-17. Click "Terminal" at the top of Visual Studio Code and select "New Terminal".
+17. Click "Terminal" at the top of Visual Studio Code and select "New Terminal."
 18. Make sure you are in /instagram-unfollow-script.
 19. Type the following command into the console:
 
