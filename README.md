@@ -5,12 +5,6 @@
 
 This is a JavaScript program to see all of the people who are not following you back 😄🤣.
 
-
-
-## Installation
-
-Before running the script, ensure you have [Node.js](https://nodejs.org/) installed.
-
 ## Table of Contents
 
 - [Description](#Description)
@@ -19,6 +13,10 @@ Before running the script, ensure you have [Node.js](https://nodejs.org/) instal
 - [Features](#features)
 - [License](#license)
 - [Questions and Support](#questions-and-support)
+
+## Installation
+
+Before running the script, ensure you have [Node.js](https://nodejs.org/) installed.
 
 ## Usage
 
