@@ -32,6 +32,14 @@ Your file structure should look like this now:
 
 ![File Structure](/assets/images/folder-structure.png)
 
+In the `script.js` file, ensure that the names of the JSON files `followers_1.json` and `following.json` exactly match the names of the JSON files in your `followers_and_following` folder. The program will not work correctly if the names do not match. See the reference images below:
+
+![Matching JSON name in folder](/assets/images/folder-json-name.png)
+
+![Matching JSON name in script.js](/assets/images/script-json-name.png)
+
+If the JSON file names in your `script.js` do not match the names of the JSON files in your `followers_and_following` folder, make sure to change them accordingly so that the program works as intended.
+
 17. Click "Terminal" at the top of Visual Studio Code and select "New Terminal."
 18. Make sure you are in /instagram-unfollow-script.
 19. Type the following command into the console:
