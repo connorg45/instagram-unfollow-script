@@ -5,9 +5,20 @@
 
 This is a JavaScript program to see all of the people who are not following you back 😄🤣.
 
+
+
 ## Installation
 
 Before running the script, ensure you have [Node.js](https://nodejs.org/) installed.
+
+## Table of Contents
+
+- [Description](#Description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [License](#license)
+- [Questions and Support](#questions-and-support)
 
 ## Usage
 
@@ -49,6 +60,12 @@ If the JSON file names in your `script.js` do not match the names of the JSON fi
     ```
 
 20. You should see all of the people who are not following you back in the terminal now 😄.
+
+## Features
+
+- Easily identify users who are not following you back on Instagram.
+- Simple installation and usage process.
+- Works with Instagram data exported in JSON format.
 
 ## License
 
